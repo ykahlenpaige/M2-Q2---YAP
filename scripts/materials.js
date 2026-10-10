@@ -1188,7 +1188,7 @@ function makeTheaterSignMaterial(text) {
 }
 
 const theaterSign1Material = makeTheaterSignMaterial('ENTRANCE');
-const theaterSign2Material = makeTheaterSignMaterial('THEATER 2');
+const theaterSign2Material = makeTheaterSignMaterial('THEATER 1');
 
 
 // ---------- Floor light glow (soft glow on the floor, only visible at night) ----------
